@@ -12,6 +12,14 @@ An AI-based Face Recognition Attendance System that automatically detects and re
 - CSV attendance report generation
 
 ## Technologies Used
+## 🚀 Features
+
+- Face Detection using OpenCV
+- Face Recognition
+- Automatic Attendance Marking
+- Date & Time Recording
+- CSV Attendance Report
+
 
 - Python
 - OpenCV
