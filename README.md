@@ -20,6 +20,16 @@ An AI-based Face Recognition Attendance System that automatically detects and re
 - Machine Learning
 - Haar Cascade Classifier
 
+## 📸 Screenshots
+
+### Face Recognition
+
+<img src="./assets/image/camera.png" width="600">
+
+### Attendance Output
+
+<img src="./assets/image/attendance.png" width="600">
+
 ## Project Structure
 Face-Recognition-Attendance-System
 │ 
