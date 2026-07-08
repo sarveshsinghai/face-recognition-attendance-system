@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# Python cache
+_pycache_/
+*.pyc
+
+# Trained model files
+data/*.pkl
+
+# Attendance records
+Attendance/*.csv
